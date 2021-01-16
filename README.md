@@ -8,4 +8,4 @@
 
 [Secure Spring Boot Angular Application with Two Factor Authentication](https://www.javachinna.com/spring-boot-angular-two-factor-authentication/)
 
-[Integrate Angular Application with Spring REST API and Package together in a Single JAR](https://www.javachinna.com/integrate-angular-with-spring)
+[Integrate Angular Application with Spring REST API and Package together in a Single JAR](https://www.javachinna.com/integrate-angular-with-spring-boot/)
